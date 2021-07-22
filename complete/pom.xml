@@ -42,6 +42,13 @@
 			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
+	
+	<repositories>
+    <repository>
+      <id>my-internal-site</id>
+      <url>http://localhost:8081/repository/repository-example/</url>
+    </repository>
+  </repositories>
 
 	<build>
 		<plugins>
