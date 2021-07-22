@@ -36,6 +36,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+						<dependency>
+			<groupId>co.gov.fna.soap.client.cb</groupId>
+			<artifactId>024-recuperar-info-basica-pn</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
